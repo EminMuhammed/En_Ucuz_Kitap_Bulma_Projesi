@@ -1,0 +1,2 @@
+# En_Ucuz_Kitap_Bulma_Projesi
+Python'ın veri çekmek ve veri parçalamak için kullanılan kütüphanelerinden Selenium ve BeautifulSoup modüllerini örnekler yaparak pekiştirmeye devam ediyoruz.  Bu videomuz da almak istediğimiz kitabın hangi sitede en ucuz olduğunu bulmamıza yarayan bir proje gerçekleştirdim. Kitapları kitapyurdu.com, bkmkitap.com ve dr.com.tr sitelerinden aratıp bu sitelerden aldığımız veriler ile en ucuz kitabın hangi sitede olduğuna kısa bir süre de ulaştık.
